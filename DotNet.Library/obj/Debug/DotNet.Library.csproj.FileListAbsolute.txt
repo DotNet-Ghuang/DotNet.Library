@@ -1,0 +1,10 @@
+E:\Nextcloud\Code\DotNet.Library\DotNet.Library\obj\Debug\DotNet.Library.csproj.AssemblyReference.cache
+E:\Nextcloud\Code\DotNet.Library\DotNet.Library\obj\Debug\DotNet.Library.csproj.CoreCompileInputs.cache
+E:\Nextcloud\Code\DotNet.Library\DotNet.Library\bin\Debug\DotNet.Library.dll.config
+E:\Nextcloud\Code\DotNet.Library\DotNet.Library\bin\Debug\DotNet.Library.dll
+E:\Nextcloud\Code\DotNet.Library\DotNet.Library\bin\Debug\DotNet.Library.pdb
+E:\Nextcloud\Code\DotNet.Library\DotNet.Library\obj\Debug\DotNet.Library.dll
+E:\Nextcloud\Code\DotNet.Library\DotNet.Library\obj\Debug\DotNet.Library.pdb
+E:\Nextcloud\Code\DotNet.Library\DotNet.Library\bin\Debug\Newtonsoft.Json.dll
+E:\Nextcloud\Code\DotNet.Library\DotNet.Library\bin\Debug\Newtonsoft.Json.xml
+E:\Nextcloud\Code\DotNet.Library\DotNet.Library\obj\Debug\DotNet.L.503337A2.Up2Date
